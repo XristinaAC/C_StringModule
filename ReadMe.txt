@@ -1,3 +1,5 @@
+Exercise fulfilled during a University course about software basics. 
+
 The exersice creates the module "MyString", which module contains the implementations of the mostly used string functions from the C standard library which functions are contained in the string.h header file. 
 In particular, the module MyString will contain the following functions, which will behave like the corresponding functions in C:
       
@@ -10,4 +12,4 @@ In particular, the module MyString will contain the following functions, which w
 	- strncmp -> ms_ncompare
 	- strstr  -> ms_search
 
-The module is implemented using arrays in the file "mystring_ars.c" and pointers in the file "mystring_ptrs.c".
+The module is implemented using arrays in the file "mystring_ars.c" and pointers in the file "mystring_ptrs.c". A main file is provided for testing. 
